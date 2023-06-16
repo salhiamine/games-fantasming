@@ -82,7 +82,7 @@ struct Giocatore {
     int  fantasma;
     int turno_avanzato;
     int ha_raccolto_prova;
-    int n_oggetti_zaino; // Aggiunto campo n_oggetti_zaino
+    int n_oggetti_zaino; // Aggiunto campo     int n_oggetti_zaino
     int nplayers;
     int n_prove_raccolte;  // nuovo membro
     int ha_vinto;
